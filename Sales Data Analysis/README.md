@@ -39,7 +39,7 @@ The analysis includes the following steps:
 - Customize the visuals by adding appropriate titles, labels, legends, and colors to enhance clarity and understanding.
 
 # Tableau Dashboard
-![image](https://github.com/AmiraQadry/Sales-Data-Analysis/blob/main/Sales%20Data%20Analysis%20Tableau.png)
+![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/Sales%20Data%20Analysis/Sales%20Data%20Analysis%20Tableau.png)
 
 # Power Bi Dashboard
-![image](https://github.com/AmiraQadry/Sales-Data-Analysis/blob/main/Sales%20Data%20Analysis%20Power%20Bi.png)
+![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/Sales%20Data%20Analysis/Sales%20Data%20Analysis%20Power%20Bi.png)
