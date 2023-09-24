@@ -37,4 +37,4 @@ The analysis includes the following steps:
 
 
 # Power Bi Dashboard
-![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/Sales%20Data%20Analysis/Sales%20Data%20Analysis%20Power%20Bi.png)
+![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/Diabetes%20Patients/Diabetes%20Patients.png)
