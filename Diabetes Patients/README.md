@@ -1,5 +1,5 @@
 #  Pima Women Diabetes Diagnosis Prediction
-This project focuses on predicting diabetes diagnosis in Pima Indian women using machine learning techniques. It utilizes a dataset that includes various health measurements of Pima Indian women along with their corresponding diabetes diagnosis.
+This project focuses on predicting diabetes diagnosis in Pima Indian women using machine learning techniques(LR Model). It utilizes a dataset that includes various health measurements of Pima Indian women along with their corresponding diabetes diagnosis.
 
 ## Dataset
 The dataset used in this project is stored in the file pima_diabetes.csv. It consists of the following columns:
