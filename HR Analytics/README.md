@@ -35,4 +35,4 @@ The project structure is organized as follows:
 - Required Python libraries (pandas, numpy, seaborn, matplotlib, scikit-learn)
 
 ### Power Bi Dashboard
-![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/Sales%20Data%20Analysis/Sales%20Data%20Analysis%20Power%20Bi.png)
+![image](https://github.com/AmiraQadry/MeriSKILL-Intern/blob/main/HR%20Analytics/HR%20Analytics.png)
